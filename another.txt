@@ -1,1 +1,2 @@
 hello
+Testing Git remote status
